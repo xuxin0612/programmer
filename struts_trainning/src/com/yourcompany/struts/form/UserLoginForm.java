@@ -25,7 +25,7 @@ public class UserLoginForm extends ActionForm {
 	private String password;
 
 	/*
-	 * Generated Methods
+
 	 */
 
 	/** 
