@@ -2,7 +2,6 @@
 <project-modules id="moduleCoreId" project-version="1.5.0">
     <wb-module deploy-name="struts_trainning">
         <wb-resource deploy-path="/" source-path="/WebRoot"/>
-        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
         <property name="context-root" value="/struts_trainning"/>
         <property name="java-output-path" value="/struts_trainning/WebRoot/WEB-INF/classes"/>
     </wb-module>
