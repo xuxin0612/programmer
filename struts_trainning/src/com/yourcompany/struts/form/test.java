@@ -3,6 +3,6 @@ package com.yourcompany.struts.form;
 public class test {
   int id;
   String name;
-  Date tim;
+  Date time3;
   String name2;
 }
