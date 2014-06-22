@@ -5,4 +5,5 @@ public class test {
   String name;
   Date time2;
   String name2;
+  String sname;
 }
